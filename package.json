@@ -1,0 +1,30 @@
+{
+  "name": "file-metadata-microservice",
+  "version": "1.0.0",
+  "description": "A microservice that allows you to upload files and it will give you informations about the size",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asitaru/fileMicroservice.git"
+  },
+  "keywords": [
+    "heroku",
+    "size",
+    "microservice"
+  ],
+  "author": "Andrei Sitaru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asitaru/fileMicroservice/issues"
+  },
+  "engines": {
+    "node": "7.6.0"
+  },
+  "homepage": "https://github.com/asitaru/fileMicroservice#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
